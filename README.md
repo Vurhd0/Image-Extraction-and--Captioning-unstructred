@@ -1,6 +1,6 @@
 # Image-Extraction-and--Captioning-unstructred
 
-This project provides a streamlined pipeline to **automatically extract images** and **generate descriptive captions/tags** from NCERT textbook PDFs using a single Jupyter Notebook
+This project works to **automatically extract images** and **generate descriptive captions/tags** from textbook PDFs using a single Jupyter Notebook
 ---
 
 ## What Has Changed?

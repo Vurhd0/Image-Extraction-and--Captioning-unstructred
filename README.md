@@ -55,7 +55,9 @@ All dependencies are installed automatically within the notebook.
 4. **Mount Google Drive** if you're using PDFs stored in your drive
 5. **Upload your input PDF**
 6. **Change the PDF path in the cell** that specifies the file location
-7. **Run all cells**
+    ![image](https://github.com/user-attachments/assets/140cf881-7b88-49b4-878f-85e6e065b018)
+
+8. **Run all cells**
 
 ---
 

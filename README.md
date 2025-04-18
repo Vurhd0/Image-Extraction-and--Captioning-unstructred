@@ -10,7 +10,7 @@ This project works to **automatically extract images** and **generate descriptiv
 - **Image captioning** is performed using either:
   - Google Gemini API (when available)
 - Designed to **run entirely on Google Colab**
-- Output files (`images/`, `captions.csv`) are auto-generated and downloadable
+- Output files (`Extracted_images/`, `gemini_image_captions.csv`) are auto-generated and downloadable
 
 ---
 
@@ -25,9 +25,9 @@ This project works to **automatically extract images** and **generate descriptiv
    - Fallback: HuggingFace’s Microsoft GIT captioning model
 
 3. **Output Generation**:  
-   - All images are stored in an `images/` folder
-   - Captions are saved in `captions.csv`
-   - Download buttons included for convenience
+   - All images are stored in an `Extracted_images/` folder
+   - Captions are saved in `gemini_image_captions.csv`
+   - Download code included for convenience
 
 ---
 
